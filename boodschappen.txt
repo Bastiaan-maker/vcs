@@ -3,3 +3,10 @@ Pizza:
 - Mozarella
 - Parmazaanse kaas
 - Basilicum
+- Tomatensaus
+
+Ontbijt:
+- Brood
+- Boter
+- Eieren
+- Sinaasappelsap
