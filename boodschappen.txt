@@ -1,5 +1,15 @@
 Pizza:
 - Pizzadeeg
+- Tomaten Frito / Witte saus
 - Mozarella
 - Parmazaanse kaas
 - Basilicum
+- Rucola
+
+Ontbijt:
+- Eieren
+- Brood
+- Cornflakes
+- Boter
+- Croissants
+- Sinaasappelsap
