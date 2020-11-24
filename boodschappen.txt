@@ -1,8 +1,10 @@
 Pizza:
 - Pizzadeeg
+- Tomaten Frito / Witte saus
 - Mozarella
 - Parmazaanse kaas
 - Basilicum
+<<<<<<< HEAD
 - Tomatensaus
 
 Ontbijt:
@@ -10,4 +12,14 @@ Ontbijt:
 - Boter
 - Cornflakes Kellog's / Quaker
 - Eieren
+=======
+- Rucola
+
+Ontbijt:
+- Eieren
+- Brood
+- Cornflakes Quaker
+- Boter
+- Croissants
+>>>>>>> 90feb241492b8d3056da43df205b44f92d073673
 - Sinaasappelsap
